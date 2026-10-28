@@ -1,0 +1,6 @@
+@Katrathu_Thiran__API_HostAddress = http://localhost:5076
+
+GET {{Katrathu_Thiran__API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
